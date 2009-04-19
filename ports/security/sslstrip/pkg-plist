@@ -1,0 +1,33 @@
+bin/sslstrip
+lib/python2.5/site-packages/sslstrip-0.1-py2.5.egg-info
+lib/python2.5/site-packages/sslstrip/CookieCleaner.py
+lib/python2.5/site-packages/sslstrip/CookieCleaner.pyc
+lib/python2.5/site-packages/sslstrip/CookieCleaner.pyo
+lib/python2.5/site-packages/sslstrip/DataShuffler.py
+lib/python2.5/site-packages/sslstrip/DataShuffler.pyc
+lib/python2.5/site-packages/sslstrip/DataShuffler.pyo
+lib/python2.5/site-packages/sslstrip/RetrySecureException.py
+lib/python2.5/site-packages/sslstrip/RetrySecureException.pyc
+lib/python2.5/site-packages/sslstrip/RetrySecureException.pyo
+lib/python2.5/site-packages/sslstrip/SSLDataShuffler.py
+lib/python2.5/site-packages/sslstrip/SSLDataShuffler.pyc
+lib/python2.5/site-packages/sslstrip/SSLDataShuffler.pyo
+lib/python2.5/site-packages/sslstrip/SSLShuffleSocket.py
+lib/python2.5/site-packages/sslstrip/SSLShuffleSocket.pyc
+lib/python2.5/site-packages/sslstrip/SSLShuffleSocket.pyo
+lib/python2.5/site-packages/sslstrip/SecureLinkListener.py
+lib/python2.5/site-packages/sslstrip/SecureLinkListener.pyc
+lib/python2.5/site-packages/sslstrip/SecureLinkListener.pyo
+lib/python2.5/site-packages/sslstrip/ShuffleSocket.py
+lib/python2.5/site-packages/sslstrip/ShuffleSocket.pyc
+lib/python2.5/site-packages/sslstrip/ShuffleSocket.pyo
+lib/python2.5/site-packages/sslstrip/__init__.py
+lib/python2.5/site-packages/sslstrip/__init__.pyc
+lib/python2.5/site-packages/sslstrip/__init__.pyo
+%%DATADIR%%/COPYING
+%%DATADIR%%/README
+%%DATADIR%%/lock.ico
+@dirrm %%DATADIR%%
+@dirrm lib/python2.5/site-packages/sslstrip
+@dirrm lib/python2.5/site-packages
+@dirrm lib/python2.5
